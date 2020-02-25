@@ -1,8 +1,8 @@
-  .idea/
+.idea/
 target/
 mvnw*
 .mvn/
-
+.**.iml
 # Compiled class file
 *.class
 
